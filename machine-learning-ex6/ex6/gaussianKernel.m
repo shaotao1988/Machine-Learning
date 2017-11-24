@@ -19,10 +19,6 @@ l1distance = x1-x2;
 l2distance = l1distance'*l1distance;
 sim = exp(-l2distance/(2*sigma^2));
 
-
-
-
-
 % =============================================================
     
 end
