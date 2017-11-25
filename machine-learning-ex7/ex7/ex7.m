@@ -2,7 +2,7 @@
 %  Exercise 7 | Principle Component Analysis and K-Means Clustering
 %
 %  Instructions
-%  ------------
+%  ------------ 
 %
 %  This file contains code that helps you get started on the
 %  exercise. You will need to complete the following functions:
